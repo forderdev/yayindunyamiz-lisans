@@ -1,0 +1,22 @@
+YayinDunyamiz SCP: Secret Laboratory eklentileri - Lisans
+
+© 2026 forderdev. Tüm hakları saklıdır.
+
+Bu eklentiler (DLL dosyaları, kaynak kodu, config örnekleri, haritalar, sesler ve belgeler)
+forderdev'in mülkiyetindedir.
+
+1. Kullanım izni
+   Eklentiler sadece forderdev'in izin verdiği sunucularda kullanılabilir. forderdev bu izni
+   her zaman, sebep göstermeden geri alabilir.
+
+2. Yasaklar
+   forderdev'in yazılı izni olmadan eklentileri kopyalamak, dağıtmak, satmak, başka sunuculara
+   vermek, değiştirmek, decompile etmek, lisans kontrolünü kaldırmak ya da atlatmak yasaktır.
+
+3. Uzaktan lisans kontrolü
+   Eklentiler açılışta ve çalışırken düzenli aralıklarla bu depodaki lisans.json dosyasını
+   indirir. Dosyada kullanım kapatılınca eklentiler kendini devre dışı bırakır. Sunucu hakkında
+   hiçbir bilgi gönderilmez; GitHub'a normal bir dosya indirme isteği gider.
+
+4. Garanti yok
+   Eklentiler "olduğu gibi" verilir. Kullanımdan doğan hiçbir zarardan forderdev sorumlu değildir.
